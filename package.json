@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "pachyderm-docs",
   "description": "Docs Starter built with Remix and powered by Hygraph",
   "license": "MIT",

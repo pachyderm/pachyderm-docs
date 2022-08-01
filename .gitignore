@@ -9,6 +9,6 @@ node_modules
 /.netlify
 
 .env
-/app/tailwind.css
+
 
 .idea
