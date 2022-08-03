@@ -1,9 +1,9 @@
 [build]
-  command = "build"
+  command = "run build"
   publish = "public"
 
 [dev]
-  command = "dev"
+  command = "run dev"
   port = 3000
 
 [[redirects]]
